@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**msrfm/MSRFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 [+] Info:- Cleaning up temp dir
@@ -14,4 +11,3 @@ Here are some ideas to get you started:
 [+] Info:- A service unit file has been saved in /etc/systemd/system/crafty.service
 [+] Info:- run this command to enable crafty as a service- 'sudo systemctl enable crafty.service' 
 [+] Info:- run this command to start the crafty service- 'sudo systemctl start crafty.service' 
--->
